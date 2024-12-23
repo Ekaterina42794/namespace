@@ -13,4 +13,4 @@ def test_function():
 # print(inner_function()) #name 'inner_function' is not defined.\имя 'inner_function' не определено.
 # inner_function() #name 'inner_function' is not defined.\имя 'inner_function' не определено.
 test_function()
-#  https://github.com/Ekaterina42794/namespace.git
+
