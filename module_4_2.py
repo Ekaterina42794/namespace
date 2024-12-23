@@ -10,7 +10,7 @@ def test_function():
     def inner_function():
         print("Я в области видимости функции test_function")
     inner_function()
-# print(inner_function()) #name 'inner_function' is not defined.\имя 'inner_function' не определено.
-# inner_function() #name 'inner_function' is not defined.\имя 'inner_function' не определено.
+print(inner_function()) #name 'inner_function' is not defined.\имя 'inner_function' не определено.
+inner_function() #name 'inner_function' is not defined.\имя 'inner_function' не определено.
 test_function()
 
