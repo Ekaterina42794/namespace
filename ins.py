@@ -10,6 +10,9 @@ print('пузырьковая сортровка:_ ',data_1)
 selection_sort(data_2)
 print('сортировка выборок:_ ',data_2)
 
-#insertion_sort(data_3)
-#print('сортровка вставкой:_ ',data_3)
+insertion_sort(data_3)
+print('сортровка вставкой:_ ',data_3)
+
+# if __name__ == '__main__':
+#     print_hi('PyCharm')
 
